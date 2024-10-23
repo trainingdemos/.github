@@ -1,6 +1,6 @@
 # Hello, World! :wave:
 
-These repositories represent [Noomedia](https://github.com/trainingdemos)'s public collection of demo projects designed to be used for training or educational purposes. If you are an instructor or educator you are welcome to use any of these resources if they are helpful.
+These repositories represent a public collection of demo projects, provided by [@noomedia](https://github.com/noomedia), designed to be used for training and educational purposes. If you are an instructor or educator you are welcome to use any of these resources if they are helpful.
 
 ## Kubernetes
 
