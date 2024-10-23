@@ -6,4 +6,4 @@ These repositories represent Noomedia's public collection of demo projects desig
 
 | Repository | Description |
 | --- | --- |
-| k8s-frontend-basic | A basic web page that displays a confirmation message |
+| [k8s-frontend-basic](https://github.com/trainingdemos/k8s-frontend-basic) | A basic web page that displays a confirmation message |
