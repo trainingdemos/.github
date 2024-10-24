@@ -6,4 +6,4 @@ These repositories represent an open-source collection of demo projects and othe
 
 | Repository | Asset | Description |
 | :--- | :--- | :--- |
-| [k8s-frontend-basic](https://github.com/trainingdemos/k8s-frontend-basic) | Container | A basic web page that displays a confirmation message |
+| [k8s-frontend-basic](https://github.com/trainingdemos/k8s-frontend-basic#k8s-frontend-basic)) | Container | A basic web page that displays a confirmation message |
