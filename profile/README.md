@@ -4,6 +4,6 @@ These repositories represent an open-source collection of demo projects and othe
 
 ### ☸️ Kubernetes
 
-| Repository | Asset | Description |
-| :--- | :--- | :--- |
-| [k8s-frontend-basic](https://github.com/trainingdemos/k8s-frontend-basic#k8s-frontend-basic) | Container | A basic web page that displays a confirmation message |
+| GitHub Repository | Asset Type | Asset Location | Description |
+| :--- | :--- | :--- | :--- |
+| [k8s-frontend-basic](https://github.com/trainingdemos/k8s-frontend-basic#k8s-frontend-basic) | Container | [Docker Hub](https://hub.docker.com/r/trainingdemos/k8s-frontend-basic) | A basic web page that displays a confirmation message |
