@@ -9,4 +9,4 @@ The repositories are listed below and indexed by technology domain.
 | GitHub Repo | Asset Type | Asset Location | Description |
 | :--- | :--- | :--- | :--- |
 | [k8s-frontend-basic](https://github.com/trainingdemos/k8s-frontend-basic) | Container Image | [Docker Hub](https://hub.docker.com/r/trainingdemos/k8s-frontend-basic) | A basic web page that displays a confirmation message |
-| [k8s-frontend-podinfo](https://github.com/trainingdemos/k8s-frontend-podinfo) | Container Image | [Docker Hub](https://hub.docker.com/r/trainingdemos/k8s-frontend-podinfo) | A basic web page that displays the name and IP address of the Pod |
+| [k8s-frontend-podinfo](https://github.com/trainingdemos/k8s-frontend-podinfo) | Container Image | [Docker Hub](https://hub.docker.com/r/trainingdemos/k8s-frontend-podinfo) | A basic web page that displays the nameand IP address</br>of the Pod |
