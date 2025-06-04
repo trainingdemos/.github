@@ -1,6 +1,6 @@
 # 🗂️ Index
 
-These repositories represent an open-source collection of demo projects and other training resources, made available by [Noomedia](https://github.com/noomedia), and designed for instructors and educators to use during training sessions.
+These repositories represent an open-source collection of demo projects and other training resources, made available by [Noobric](https://github.com/noobric), and designed for instructors and educators to use during training sessions.
 
 The repositories are listed below and indexed by technology domain.
 
